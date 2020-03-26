@@ -4,3 +4,5 @@ settings do visualcode para criar divs com classe no javascritp div.teste + tab
 
 "emmet.syntaxProfiles": {"javascript": "jsx"},
 "emmet.includeLanguages": {"javascript": "javascriptreact"}
+
+58:15
